@@ -2,3 +2,4 @@
 2. Mendapatkan nilai A di semua makul
 3. Menang lomba
 4. Menang lomba lagi
+5. Menang lomba lagi lagi
